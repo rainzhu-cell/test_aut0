@@ -1,0 +1,12 @@
+-
+
+  path: /api/order
+  headers:
+     token:
+   data:
+     productid: 8888
+     userid:
+     openid:
+     cardis:
+
+  result: sucess
